@@ -14,21 +14,6 @@ This project provides a Python implementation to construct and visualize a suffi
 - Required libraries:
   - `matplotlib`
 
-## 📦 Installation
-
-To clone and run the project locally, follow these steps:
-
-'''bash
-# Clone the repository
-git clone https://github.com/usk2003/Suffix-Tree-Visualizer.git
-
-# Navigate to the project folder
-cd suffix-tree-visualizer
-
-# Install required libraries
-pip install matplotlib
-'''
-
 ## 📖 How to Use
 
 1. Clone the repository and navigate to the project folder.
