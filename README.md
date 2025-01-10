@@ -19,9 +19,9 @@ This project provides a Python implementation to construct and visualize a suffi
 1. Clone the repository and navigate to the project folder.
 2. Run the Python script:
    
-   '''bash
+    ```bash
    python suffix_tree_visualizer.py
-   '''
+    ```
 
 3. Enter a word or string when prompted. ex - banana.
 4. The suffix tree for the input will be visualized using `matplotlib`.
